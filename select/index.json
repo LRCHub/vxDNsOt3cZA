@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Meet Her At The Love Parade",
+  "base_artist": "Vieze Asbak",
+  "createdAt": "2026-03-28T06:46:15.363938Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Meet Her at the Love Parade",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/01_Meet_Her_at_the_Love_Parade_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Meet Her At The Love Parade",
+      "artist": "Various",
+      "has_synced": false,
+      "path": "select/02_Meet_Her_At_The_Love_Parade_Various.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Meet Her At The Love Parade",
+      "artist": "Verschiedene",
+      "has_synced": false,
+      "path": "select/03_Meet_Her_At_The_Love_Parade_Verschiedene.txt"
+    }
+  ]
+}
